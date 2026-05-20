@@ -101,16 +101,6 @@ The Gradio interface will launch with:
   - OpenAI (for GPT models)
   - Groq (for Whisper transcription)
 
-## Notes
-
-- Commands are executed sequentially as separated by `&&` operators
-- Voice transcription requires microphone access
-- Ensure proper API credentials are configured before running
-
-## License
-
-[Add your license information here]
-
 ## Support
 
 For issues, questions, or contributions, please refer to the repository's GitHub issues page.
